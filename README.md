@@ -10,11 +10,14 @@ afin de répondre aux spécifications ci-dessous.
 3. Nous devons être capable de connaitre le niveau de vie pour déclarer un vainqueur
 
 Nous souhaitons maintenant faire évoluer les combattants avec trois classes de combattants :
+
 4. NINJA : qui a la spécificité d'avoir un katana :
 Nouvelle technique de frappe : coup de katana enlevant 5 points de vie à son adversaire
+
 5. ZOMBIE : qui a la spécificité d'avoir un sort de dégât
 Lorsque le joueur l’active il triple (x3) les dégâts de la prochaine technique de base. Ce sort est
 utilisable une seule fois dans le combat
+
 6. CAPITAINE : qui a la spécificité d’avoir un bouclier :
 Il ne peut donc causer qu’un dégât de -1 au pied, et enlève 1 point de dégâts sur tous les coups reçus.
 
